@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            var a = 1;
+            var a = 1; 
         }
     }
 }
